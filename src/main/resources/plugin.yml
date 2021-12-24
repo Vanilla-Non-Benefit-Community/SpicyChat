@@ -1,0 +1,11 @@
+name: SpicyChat
+version: '${project.version}'
+main: org.minecraft.server.wolf.spicychat.Main
+api-version: 1.17
+prefix: SpicyChat
+authors: [ MikkoAyaka ]
+description: Make your server chat colorful !
+commands:
+  spicychat:
+    aliases:
+      - 'sc'
